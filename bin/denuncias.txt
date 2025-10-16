@@ -1,2 +1,0 @@
-Robo de foco;Por mi casa siempre se pasan robando los focos;2025-10-15;Guayaquil;Delito;true;gene10
-robo de retrovisor;hoy en la madruga se le robaron el retrovisor y no es la primera vez que pasa;2025-10-15;Guayaquil;Delito;true;gene10
