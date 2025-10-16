@@ -1,0 +1,12 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compilar proyecto Java",
+            "type": "shell",
+            "command": "javac -encoding UTF-8 -d bin $(find src -name \"*.java\")",
+            "group": "build",
+            "problemMatcher": []
+        }
+    ]
+}
